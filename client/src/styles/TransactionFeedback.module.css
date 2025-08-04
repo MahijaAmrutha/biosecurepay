@@ -1,0 +1,42 @@
+.container {
+  background-color: #fff7f5;
+  border-radius: 12px;
+  padding: 2rem;
+  text-align: center;
+  max-width: 400px;
+  margin: 100px auto;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.success {
+  color: #2e7d32;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.failure {
+  color: #c62828;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.message {
+  margin-top: 10px;
+  color: #444;
+  font-size: 16px;
+}
+
+.button {
+  background-color: #ec9999;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 10px;
+  border: none;
+  font-size: 16px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #d87a7a;
+}
